@@ -1,0 +1,45 @@
+.pet-card{
+
+    background:white;
+
+    border-radius:25px;
+
+    padding:30px;
+
+    text-align:center;
+
+    margin-bottom:30px;
+
+    box-shadow:0 12px 30px rgba(0,0,0,.12);
+
+}
+
+.pet-image{
+
+    font-size:90px;
+
+}
+
+.mood-bar{
+
+    margin-top:20px;
+
+    height:20px;
+
+    background:#E6E6E6;
+
+    border-radius:20px;
+
+    overflow:hidden;
+
+}
+
+.mood-fill{
+
+    width:75%;
+
+    height:100%;
+
+    background:#58C78D;
+
+}

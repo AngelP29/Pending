@@ -1,0 +1,99 @@
+.expense-card{
+
+    background:white;
+
+    border-radius:24px;
+
+    padding:30px;
+
+    margin-bottom:30px;
+
+    box-shadow:0 15px 35px rgba(0,0,0,.12);
+
+}
+
+.expense-card h2{
+
+    margin-top:0;
+
+    color:#333;
+
+}
+
+.expense-card input,
+.expense-card select{
+
+    width:100%;
+
+    padding:14px;
+
+    margin-top:15px;
+
+    border-radius:12px;
+
+    border:2px solid #E5E7EB;
+
+    font-size:16px;
+
+    box-sizing:border-box;
+
+}
+
+.expense-card input:focus,
+.expense-card select:focus{
+
+    outline:none;
+
+    border-color:#58C78D;
+
+}
+
+.expense-card button{
+
+    width:100%;
+
+    margin-top:18px;
+
+    padding:14px;
+
+    border:none;
+
+    border-radius:12px;
+
+    background:#58C78D;
+
+    color:white;
+
+    font-size:16px;
+
+    font-weight:bold;
+
+    cursor:pointer;
+
+    transition:.2s;
+
+}
+
+.expense-card button:hover{
+
+    background:#47b67c;
+
+}
+
+.expense-card ul{
+
+    list-style:none;
+
+    padding:0;
+
+    margin-top:15px;
+
+}
+
+.expense-card li{
+
+    padding:12px 0;
+
+    border-bottom:1px solid #EEE;
+
+}

@@ -2,7 +2,11 @@
 
     min-height:100vh;
 
-    background:#88A9F5;
+    background:linear-gradient(
+        180deg,
+        #8FB8FF 0%,
+        #7D9BF5 100%
+    );
 
     display:flex;
 

@@ -4,7 +4,11 @@ body{
 
     font-family:Arial, Helvetica, sans-serif;
 
-    background:#88A9F5;
+    background:linear-gradient(
+        180deg,
+        #8FB8FF 0%,
+        #7D9BF5 100%
+    );
 
 }
 
